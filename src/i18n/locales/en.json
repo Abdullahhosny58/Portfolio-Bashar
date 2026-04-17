@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "contact": "Contact",
+    "lang": "Arabic"
+  },
+  "hero": {
+    "greeting": "Visual Storyteller",
+    "name": "Bashar Hani",
+    "tagline": "Photographer & Cinematographer",
+    "sub": "Crafting images that capture emotion, mood, and brand identity.",
+    "cta": "View Work",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "label": "About Me",
+    "title": "Behind the Lens",
+    "para1": "A highly creative and passionate visual storyteller with strong skills in photography and videography, particularly in composition and lighting. Known for an instinctive eye for detail, dynamic framing, and a unique ability to craft visually compelling images that capture emotion, mood, and brand identity.",
+    "para2": "Well-versed in the principles of the color wheel, styling, and visual harmony, with a deep understanding of how color, texture, and tone influence perception and aesthetics — and a strong awareness of how lighting can elevate both subject and setting, enhancing the narrative within the frame.",
+    "stats": {
+      "years": "3+",
+      "years_label": "Years of Experience",
+      "shoots": "50+",
+      "shoots_label": "Projects Completed",
+      "clients": "30+",
+      "clients_label": "Happy Clients"
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "What I Do",
+    "subtitle": "From product campaigns to cinematic portraits, every frame is crafted with intention.",
+    "items": [
+      { "title": "Product Photography", "desc": "Studio and lifestyle product shoots that highlight brand identity through precise lighting, composition, and color." },
+      { "title": "Portrait Photography", "desc": "Expressive portraits that reveal personality and emotion through dynamic framing and masterful use of light." },
+      { "title": "Cinematography", "desc": "Cinematic stills and motion content that translate brand stories into powerful visual narratives." },
+      { "title": "Brand Visual Content", "desc": "End-to-end visual content creation aligned with brand strategy for campaigns, social media, and editorial." }
+    ]
+  },
+  "work": {
+    "label": "Work",
+    "title": "Selected Work",
+    "subtitle": "A curated selection of photography and cinematography projects.",
+    "view": "View Project",
+    "filters": {
+      "all": "All",
+      "products": "Products",
+      "portrait": "Portrait",
+      "stills": "Stills"
+    }
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's Create Together",
+    "subtitle": "Have a project in mind? Let's talk about how we can bring your vision to life.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "message": "Tell me about your project",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent!",
+      "error": "Something went wrong."
+    },
+    "info": {
+      "instagram": "@basharforashoot",
+      "instagram_label": "Instagram",
+      "location": "Egypt",
+      "location_label": "Based In",
+      "available": "Open to Projects",
+      "available_label": "Availability"
+    }
+  },
+  "footer": {
+    "copy": "Bashar Hani",
+    "rights": "All rights reserved."
+  }
+}
