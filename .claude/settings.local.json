@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Pc/AppData/Local/Temp/claude/c--Users-Pc-AI-Space-Project-folders-Portfolio-Bashar/8238fd56-b6fb-4934-a9cf-f592401717da/tasks/**)"
+    ]
+  }
+}
